@@ -20,7 +20,9 @@ This repository contains a Jupyter notebook and py files analyzing customer chur
 
 ## How to Use?
 1. **clone repository to your local device**
-`` git clone https://github.com/ManeDavtyan/SurvivalAnalysis.git ``
+```python
+git clone https://github.com/ManeDavtyan/SurvivalAnalysis.git
+```
 2. **install requirnments.txt file in a newly created venv**
 ```python 
 # Create a virtual environment
